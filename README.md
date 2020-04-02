@@ -1,30 +1,7 @@
-# dcc-template-bin
+# consumr
 
-[![Build Status](https://travis-ci.org/dcchut/dcc-template-bin.svg?branch=master)](https://travis-ci.org/dcchut/dcc-template-bin)
-[![codecov](https://codecov.io/gh/dcchut/dcc-template-bin/branch/master/graph/badge.svg)](https://codecov.io/gh/dcchut/dcc-template-bin)
-
-dcc-template-bin is a template for creating Rust binary applications.
-
-* [API Documentation](https://docs.rs/dcc-template-bin/)
-* Cargo package: [dcc-template-bin](https://crates.io/crates/dcc-template-bin)
-
----
-## Installation
-
-Add this to your `Cargo.toml`:
-
-```toml
-[dependencies]
-dcc-template-bin = "0.1"
-```
-
-## Basic Usage
-
-```rust
-fn main() {
-    println!("Hello world!");
-}
-```
+[![Build Status](https://travis-ci.org/dcchut/consumr.svg?branch=master)](https://travis-ci.org/dcchut/consumr)
+[![codecov](https://codecov.io/gh/dcchut/consumr/branch/master/graph/badge.svg)](https://codecov.io/gh/dcchut/consumr)
 
 ### License
 Licensed under either of
